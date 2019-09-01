@@ -1,0 +1,23 @@
+#center {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 70%;
+    display: block;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    background-color: lightcoral;
+}
+
+img {
+    border: 1em;
+}
